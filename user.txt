@@ -6,4 +6,4 @@ TMANN
 SHAINES2
 JKEAY3
 JEVANS39
-JEVANS:tabPage1,tabPage2
+JEVANS:tabPage1,CommandTab
