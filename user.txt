@@ -7,4 +7,4 @@ SHAINES2
 JKEAY3
 
 jevans:command,tabpage2
-jevans:tabpage1,tab2
+JE:tabpage1,tab2
