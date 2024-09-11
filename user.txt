@@ -5,6 +5,4 @@ RHOWDEN1
 TMANN
 SHAINES2
 JKEAY3
-
-jevans:command,tabpage2
 JE:tabpage1,tab2
