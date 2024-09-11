@@ -5,6 +5,6 @@ RHOWDEN1
 TMANN
 SHAINES2
 JKEAY3
-JEVANS39 :tab1,tab2
+
 jevans:command,tabpage2
 jevans:tabpage1,tab2
